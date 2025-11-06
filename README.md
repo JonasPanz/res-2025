@@ -79,11 +79,11 @@ Note: Do not request to merge into main. Always target a branch named after you.
 
 ## 8. Verify Your Submission
 
-1. Check that your PR contains:
-main.tex
-references.bib
-figure.pdf
-Optional updates to README.md
+Check that your PR contains:
+- main.tex
+- references.bib
+- figure.pdf
+- Optional updates to README.md
 
 ---
 
